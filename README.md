@@ -9,4 +9,4 @@ We do not share any information with third parties.
 
 We take the privacy of our users seriously, and we strive to provide a safe and secure experience for everyone who uses the app.
 
-If you have any questions or concerns about this Privacy Policy, please contact us at <a href="mailto:azamatk@outlook.com">contact@email.com </a>
+If you have any questions or concerns about this Privacy Policy, please contact us at <a href="mailto:azamatk@outlook.com">azamatk@outlook.com </a>
